@@ -28,3 +28,9 @@ Then open the Visual Studio solution in the `build` folder.
 Make sure to run the `Copy_Shaders` target once before running the
 application. This will copy the shader files to the executable output
 folder.
+
+## Notice
+
+The code contains some (modified) parts from the
+[DiligentSamples](https://github.com/DiligentGraphics/DiligentSamples)
+repository which is licensed under a Apache-2.0 license.
